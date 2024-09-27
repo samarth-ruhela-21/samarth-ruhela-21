@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 📧  You can contact me at samarthruh21@gmail.com
 
-![Profile Views](https://komarev.com/ghpvc/?username=dishika-ruhela&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=samarth-ruhela-21&color=blue)
 
 
 ---
@@ -49,10 +49,10 @@ Here are some ideas to get you started:
 
 ### GitHub Stats 📊
 
-![Dishika's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishika-ruhela&show_icons=true&theme=radical)
+![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishika-ruhela&show_icons=true&theme=radical)
 ---
 
 ### GitHub Streak 🔥
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dishika-ruhela&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samarth-ruhela-21&theme=radical)
 
