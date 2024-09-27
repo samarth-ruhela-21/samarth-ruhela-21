@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ### GitHub Stats 📊
 
-![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishika-ruhela&show_icons=true&theme=radical)
+![Samarth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarth-ruhela-21&show_icons=true&theme=radical)
 ---
 
 ### GitHub Streak 🔥
